@@ -1,0 +1,33 @@
+.header-nav img {
+	max-width: 80px;
+}
+
+.header-nav {
+	background-color: #00acee;
+	display: flex;
+	color: white;
+	padding: 12px;
+	padding-left: 36px;
+}
+
+.navigation {
+	box-shadow: 0 8px 6px -6px black;
+}
+
+.nav-button {
+	display: flex;
+	margin-left: 80px;
+}
+
+.food-button {
+	min-width: 120px;
+}
+
+.transaction-button {
+	min-width: 120px;
+}
+
+.transaction-button:hover {
+	min-width: 120px;
+	color: #00acee;
+}

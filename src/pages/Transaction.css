@@ -1,0 +1,21 @@
+.content-container {
+	display: flex;
+}
+
+.transaction-menu-container {
+	display: flex;
+}
+
+.transaction-container {
+	box-shadow: 5px 10px 8px #888888;
+	min-width: 450px;
+}
+
+.transaction-container img {
+	width: 40px;
+}
+
+.transaction-header {
+	display: flex;
+	justify-content: center;
+}

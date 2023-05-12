@@ -1,0 +1,21 @@
+.card-container {
+	width: 300px;
+	box-shadow: 5px 10px 8px #888888;
+	margin: 20px;
+}
+
+.image-container {
+	width: 300px;
+	height: 200px;
+}
+
+.image-container img {
+	width: 300px;
+	height: 200px;
+	object-fit: cover;
+}
+
+.desc-container {
+	padding: 28px;
+	text-align: center;
+}
